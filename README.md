@@ -74,7 +74,7 @@ Screenshots of all dashboard pages are available in the `/Screenshots` folder.
 
 ## Project Structure
 
-Retail-Sales-Analytics/
+```Retail-Sales-Analytics/
 │
 ├── SQL/
 │   ├── monthly_sales_overview.sql
@@ -91,4 +91,4 @@ Retail-Sales-Analytics/
 │   ├── page2_product_performance.png
 │   └── page3_customer_churn.png
 │
-└── README.md
+└── README.md```
