@@ -73,3 +73,22 @@ Screenshots of all dashboard pages are available in the `/Screenshots` folder.
 ---
 
 ## Project Structure
+
+Retail-Sales-Analytics/
+│
+├── SQL/
+│   ├── monthly_sales_overview.sql
+│   ├── product_performance.sql
+│   ├── customer_lifetime_value.sql
+│   ├── order_status_funnel.sql
+│   └── churned_customers.sql
+│
+├── Power BI/
+│   └── Retail_Sales_Analytics.pbix
+│
+├── Screenshots/
+│   ├── page1_sales_overview.png
+│   ├── page2_product_performance.png
+│   └── page3_customer_churn.png
+│
+└── README.md
